@@ -1,0 +1,21 @@
+{
+  "name": "vermillion-code-dark",
+  "displayName": "Vermillion Code Dark",
+  "description": "Simple dark theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Vermillion Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vermillion Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}
